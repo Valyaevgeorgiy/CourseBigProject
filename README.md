@@ -1,4 +1,8 @@
 # Мобильное погодное приложение на React Native
+![views](https://raw.githubusercontent.com/Valyaevgeorgiy/CourseBigProject/traffic/traffic-CourseBigProject/views.svg)
+![views per week](https://raw.githubusercontent.com/Valyaevgeorgiy/CourseBigProject/traffic/traffic-CourseBigProject/views_per_week.svg)
+![clones](https://raw.githubusercontent.com/Valyaevgeorgiy/CourseBigProject/traffic/traffic-CourseBigProject/clones.svg)
+![clones per week](https://raw.githubusercontent.com/Valyaevgeorgiy/CourseBigProject/traffic/traffic-CourseBigProject/clones_per_week.svg)
 
 Собственно реализованный программный продукт для мобильных устройств под операционные системы iOS и Android в рамках написания курсовой работы по изучению технологий разработки приложений для мобильных устройств.
 
