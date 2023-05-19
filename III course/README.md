@@ -2,6 +2,9 @@
 
 Собственно реализованная нейронная сеть с основой на Python-фреймворке PyTorch в рамках написания курсовой работы по изучению технологий анализа данных и машинного обучения.
 
+### Классовая структура проекта
+![image](https://github.com/Valyaevgeorgiy/CourseBigProject/assets/71630161/01ce6e78-7420-402b-836d-17dcb872f39b)
+
 ### Архитектура нейронной сети
 ![image](https://github.com/Valyaevgeorgiy/CourseBigProject/assets/71630161/8fff5a1e-953e-405f-84b6-c5888e661c5d)
 
